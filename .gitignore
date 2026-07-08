@@ -2,7 +2,6 @@
 **/*.rs.bk
 Cargo.lock
 *.wasm
-.env
 *.log
 
 # Local testing scripts
@@ -33,3 +32,5 @@ BM/
 
 # Python cache
 __pycache__/
+config.bat
+node_modules
